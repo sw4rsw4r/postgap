@@ -2,7 +2,7 @@
 # shotgun stochastic search
 # 11 april 2017
 
-#test for git
+#te st for g i
 import numpy
 import math
 import itertools as it
